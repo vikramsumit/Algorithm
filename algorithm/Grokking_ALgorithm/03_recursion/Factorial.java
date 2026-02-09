@@ -1,3 +1,7 @@
+// |   → OR (no short-circuit)
+// ||  → OR (short-circuit)
+// &   → AND (no short-circuit)
+// &&  → AND (short-circuit)
 
 public class Factorial {
 
